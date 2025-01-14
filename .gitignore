@@ -61,3 +61,11 @@ fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
 contents.xcworkspacedata
+
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+.swiftpm
+.*.sw?
+
